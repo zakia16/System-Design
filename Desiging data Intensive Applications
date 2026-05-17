@@ -7,3 +7,6 @@ RPC history slide:
 SunRPC / CORBA / DCOM        (Older 80s and 90s systems)
 SOAP / XML-RPC (1998)        ◄ This is where SimpleXMLRPCServer belongs!
 gRPC / REST (Modern systems) ◄ This is where Flask belongs!
+
+How does latency-based DNS work?
+offers the lowest latency or shortest delay:
