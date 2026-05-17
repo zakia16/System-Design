@@ -1,0 +1,6 @@
+Distributed Systems 1.3: RPC (Remote Procedure Call): https://www.youtube.com/watch?v=S2osKiqQG9s&t=1s
+
+RPC history slide: 
+SunRPC / CORBA / DCOM        (Older 80s and 90s systems)
+SOAP / XML-RPC (1998)        ◄ This is where SimpleXMLRPCServer belongs!
+gRPC / REST (Modern systems) ◄ This is where Flask belongs!
